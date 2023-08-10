@@ -18,7 +18,7 @@ I'm a passionate programmer, educator, and open-source enthusiast. Here's a bit 
 📈 **My GitHub Stats:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balaliss&layout=compact)](https://github.com/balaliss/github-readme-stats)
-[![balaliss's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaliss&show_icons=true&theme=tokyonight)](https://github.com/balaliss/github-readme-stats)
+
 
 ---
 
